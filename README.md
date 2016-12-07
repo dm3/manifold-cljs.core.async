@@ -1,4 +1,4 @@
-# manifold-cljs.core.async
+# manifold-cljs/core.async
 
 [![Build Status](https://travis-ci.org/dm3/manifold-cljs.core.async.png?branch=master)](https://travis-ci.org/dm3/manifold-cljs.core.async)
 
@@ -13,7 +13,7 @@ on its own.
 Add the following dependency to your project.clj or build.boot:
 
 ```clojure
-[manifold-cljs.core.async "0.1.6-0"]
+[manifold-cljs/core.async "0.1.6-0"]
 ```
 
 Then use it in your project:
